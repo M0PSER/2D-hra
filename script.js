@@ -98,7 +98,7 @@ $(document).ready(function (){
 
         const obrazek_hrace=new Image();
         //obrazek_hrace.src="./img/red_knight.png"
-        obrazek_hrace.src="./img/20241010_153713.jpg"
+        obrazek_hrace.src="./img/20241010_153713-removebg-preview.png"
 
         let skore=0;
         let kure_sebrano=false
