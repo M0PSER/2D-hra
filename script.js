@@ -97,8 +97,8 @@ $(document).ready(function (){
         kure_obrazek.src ="./img/kuře.png"                          //načítání kuřete (sranda bude až to změním a už to nebude kuře, ale ta proměná se pořád bude jmenovat kuře)
 
         const obrazek_hrace=new Image();
-        //obrazek_hrace.src="./img/red_knight.png"
-        obrazek_hrace.src="./img/20241010_153713-removebg-preview.png"
+        obrazek_hrace.src="./img/red_knight.png"
+        //obrazek_hrace.src="./img/20241010_153713-removebg-preview.png"
 
         let skore=0;
         let kure_sebrano=false
@@ -281,7 +281,7 @@ $(document).ready(function (){
 
                 }
 
-                setInterval(epileptak,10)
+                setInterval(epileptak,1000)
 
 
 
