@@ -280,7 +280,7 @@ $(document).ready(function (){
 
                 }
 
-                setInterval(epileptak,1000)
+                setInterval(epileptak,10)
 
 
 
